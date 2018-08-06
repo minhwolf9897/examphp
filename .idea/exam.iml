@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/exam/tests" isTestSource="true" packagePrefix="Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/exam/app" isTestSource="false" packagePrefix="App\" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/dnoegel/php-xdg-base-dir" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/dragonmantank/cron-expression" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/egulias/email-validator" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/erusev/parsedown" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/fideloper/proxy" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/filp/whoops" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/fzaninotto/faker" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/hamcrest/hamcrest-php" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/jakub-onderka/php-console-color" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/jakub-onderka/php-console-highlighter" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/laravel/framework" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/laravel/tinker" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/league/flysystem" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/mockery/mockery" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/nesbot/carbon" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/nunomaduro/collision" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/paragonie/random_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/phar-io/manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/phar-io/version" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/phpdocumentor/reflection-common" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/phpdocumentor/reflection-docblock" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/phpdocumentor/type-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/phpspec/prophecy" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/phpunit/php-code-coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/phpunit/php-text-template" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/phpunit/php-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/phpunit/php-token-stream" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/psy/psysh" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/ramsey/uuid" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/sebastian/code-unit-reverse-lookup" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/sebastian/comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/sebastian/exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/sebastian/global-state" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/sebastian/object-enumerator" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/sebastian/object-reflector" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/sebastian/resource-operations" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/swiftmailer/swiftmailer" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/symfony/css-selector" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/symfony/debug" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/symfony/polyfill-php72" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/symfony/translation" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/theseer/tokenizer" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/tijsverkoyen/css-to-inline-styles" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/exam/vendor/webmozart/assert" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
